@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Divyanshu Kumar 👋</h1>
 <p align="center">
-  Business Intelligence Analyst | Data Analyst | Python & Power BI Enthusiast
+  📊 Data Analyst & AI | Data Detective 🕵️‍♂️ | Python & Power BI Specialist turning raw numbers into real impact
 </p>
 
 ---
@@ -15,7 +15,7 @@
 - Data Analytics, Visualization, and Automation
 - Tools like Power BI, SQL, Python, Tableau, and Excel
 - Building real-time dashboards and ETL pipelines
-- Driving 20%+ business growth and saving 150+ hours through automation
+- Driving business growth and saving 150+ hours of mannual effort through automation
 
 ---
 
@@ -85,12 +85,6 @@
 
 ---
 
-## 🏆 Achievements
-
-- GATE Qualified (AIR 1456 & 1107 – 2024/2025)
-- 🏅 5-Star Coder on HackerRank
-
----
 
 ## 📬 Let's Connect
 
