@@ -96,7 +96,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/divyanshu0519/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://github.com/Dk0519"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="https://my-portfolio-five-chi-11.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=vercel" alt="Portfolio"></a>
+  <a href="https://my-portfolio-page-sage.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=vercel" alt="Portfolio"></a>
 </p>
 
 ---
