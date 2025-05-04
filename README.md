@@ -3,94 +3,101 @@
 </p>
 
 <h1 align="center">Hi, I'm Divyanshu Kumar 👋</h1>
-<p align="center">
-  📊 Data Analyst & AI | Data Detective 🕵️‍♂️ | Python & Power BI Specialist turning raw numbers into real impact
-</p>
+
+<h3 align="center">
+  📊 Data Analyst & AI Enthusiast | 🕵️‍♂️ Data Detective | 🐍 Python & ⚡ Power BI Specialist
+</h3>
 
 ---
 
-## 📊 Summary
+## 🌟 About Me
 
-🎯 Results-oriented Business Intelligence Analyst with 2+ years of experience in:
-- Data Analytics, Visualization, and Automation
-- Tools like Power BI, SQL, Python, Tableau, and Excel
-- Building real-time dashboards and ETL pipelines
-- Driving business growth and saving 150+ hours of mannual effort through automation
+🎯 I'm a results-oriented **Business Intelligence Analyst** with 2+ years of experience in:
+
+- 🚀 Automating reporting & ETL processes (saved 150+ hours)
+- 📊 Building real-time dashboards using Power BI, SQL & Excel
+- 🔍 Turning raw data into meaningful insights that drive business growth
+- 🧠 Passionate about data modeling, storytelling & visual analytics
 
 ---
 
-## 🧠 Skills
+## 🧠 Tech Stack
 
-**Primary Skills:**  
-`Data Analytics` | `Business Intelligence` | `Visualization` | `Machine Learning` | `Data Modeling` | `ETL`
-
-**Languages:**  
-`Python` | `SQL` | `C/C++`
-
-**Tools:**  
-`Power BI`, `Tableau`, `Excel`, `Figma`, `Git/GitHub`, `PostgreSQL`, `MySQL`
-
-**Frameworks & Libraries:**  
-`NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Plotly`, `Streamlit`, `Scikit-learn`
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>Python, SQL, C/C++</td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>Power BI, Tableau, Excel, Figma, Git, PostgreSQL, MySQL</td>
+  </tr>
+  <tr>
+    <td><strong>Frameworks</strong></td>
+    <td>NumPy, Pandas, Matplotlib, Seaborn, Plotly, Streamlit, Scikit-learn</td>
+  </tr>
+  <tr>
+    <td><strong>Core Areas</strong></td>
+    <td>Data Analytics, BI, Machine Learning, Visualization, ETL, Data Modeling</td>
+  </tr>
+</table>
 
 ---
 
 ## 💼 Work Experience
 
-### 🔹 Business Analyst — *DuBuddy.in* (Aug 2023 – Present)
-- Automated reporting process (saved 150+ hours)
-- Built Power BI dashboards for marketing & investment
-- Boosted sales by 20%+ and revenue by 46%
-- Designed and maintained ETL pipelines
+### 🔹 DuBuddy.in — *Business Analyst* (Aug 2023 – Present)
+- ✅ Automated reporting workflows — saved 150+ hours
+- 📊 Built dashboards for real-time investor & marketing insights
+- 📈 Boosted sales by 20% and revenue by 46%
+- 🔄 Maintained robust ETL pipelines for accurate, clean data
 
-### 🔹 AI/ML Research Intern — *Samsung R&D, Bangalore* (Jul 2022 – Dec 2022)
-- Developed real-time Speech Diarization using LSTM/RNN
-- Improved model accuracy from 70% to 90%
-- Created UAT documentation and model improvements
-
----
-
-## 📌 Projects
-
-### 🔹 [COVID-19 Global Analysis](https://github.com/Dk0519/Covid_19_Global_Analysis)
-- End-to-end data analysis using Python
-- Dynamic choropleth maps and regional KPIs
-- Automated daily CSV/PNG reports
-
-**Tools:** Python, Pandas, Plotly, Seaborn, Matplotlib
+### 🔹 Samsung R&D, Bangalore — *AI/ML Research Intern* (Jul 2022 – Dec 2022)
+- 🗣️ Developed speech diarization system using LSTM & RNN
+- 📈 Improved model accuracy from 70% → 90%
+- 📝 Created UAT documentation and model enhancements
 
 ---
 
-### 🔹 [HR Dashboard](https://github.com/Dk0519/Hr_Dashoard)
-- Created Python-based pipelines for Tableau dashboards
-- Visualized KPIs: hiring trends, salaries, demographics
+## 📌 Featured Projects
 
-**Tools:** Tableau, Python, SQL
-
----
-
-### 🔹 [YouTube Music Song Analysis](https://github.com/Dk0519/YT_Music_Song_Analysis)
-- Analyzed 6 years of music trends
-- Built Power BI dashboards and automated data flows
-
-**Tools:** Python, SQL, Power BI
+### 🎯 [COVID-19 Global Analysis](https://github.com/Dk0519/Covid_19_Global_Analysis)
+- Tracked global COVID trends, built health KPIs
+- Created dynamic choropleth maps and bar charts
+- Tools: Python, Pandas, Seaborn, Plotly, Matplotlib
 
 ---
 
-## 📜 Certifications
+### 📊 [HR Dashboard (Tableau)](https://github.com/Dk0519/Hr_Dashoard)
+- Created ETL-ready pipelines with Python
+- Visualized hiring, salary & demographic data
+- Tools: Tableau, Python, SQL
 
-- [Google Advanced Data Analytics](https://coursera.org/share/b4efe93ae652198a9026e47585dfe5b9)
-- [Google Business Intelligence](https://coursera.org/share/b4efe93ae652198a9026e47585dfe5b9)
-- [Microsoft PL-300: Power BI](https://coursera.org/share/b4efe93ae652198a9026e47585dfe5b9)
+---
+
+### 🎵 [YouTube Music Song Analysis](https://github.com/Dk0519/YT_Music_Song_Analysis)
+- Analyzed trends & listener behavior (2018–2024)
+- Designed automated Power BI dashboards
+- Tools: Python, SQL, Power BI
+
+---
+
+## 🎓 Certifications
+
+- 📜 [Google Advanced Data Analytics](https://coursera.org/share/b4efe93ae652198a9026e47585dfe5b9)
+- 📜 [Google Business Intelligence](https://coursera.org/share/b4efe93ae652198a9026e47585dfe5b9)
+- 📜 [Microsoft PL-300: Power BI](https://coursera.org/share/b4efe93ae652198a9026e47585dfe5b9)
 
 ---
 
 
 ## 📬 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/divyanshu0519/)
-- 🧑‍💻 [GitHub](https://github.com/Dk0519)
-- 🌐 [Portfolio](https://my-portfolio-five-chi-11.vercel.app/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/divyanshu0519/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/Dk0519"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://my-portfolio-five-chi-11.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=vercel" alt="Portfolio"></a>
+</p>
 
 ---
 
